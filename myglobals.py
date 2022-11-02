@@ -13,6 +13,7 @@ settings_dict = {
     "auto_dl": True,
     "delete_after": True,
     "add_to_db": True,
+    "checkboxes_before_add": False,
     "vac_delay": 1000,
     "steam_api_key": "",
     "net_interface": "",
